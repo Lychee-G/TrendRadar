@@ -20,6 +20,7 @@ DJI
 字节
 Apple
 特斯拉
+!水果
 
 微软
 Microsoft
@@ -28,16 +29,8 @@ NVIDIA
 AMD
 谷歌
 google
-
-gemini
-deepmind
 chatgpt
 openai
-sora
-claude
-Anthropic
-ai
-!gai
 人工智能
 
 iphone
@@ -54,8 +47,17 @@ apple watch
 喜茶
 麦当劳
 肯德基
-+新品
 +联名
+
+古茗
+一点点
+瑞幸
+茶百道
+奈雪
+喜茶
+麦当劳
+肯德基
++新品
 
 铁路
 CRH
@@ -63,3 +65,15 @@ CR
 和谐号
 复兴号
 调图
+
+A股
+上证
+深证
+美股
+港股
+纳斯达克
+纳指
+日经
+黄金
+金价
++涨跌
